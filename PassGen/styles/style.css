@@ -7,7 +7,7 @@
 }
 
 .magicpattern{
-  background-image: url(https://thegladietor.github.io/PassGen/PassGen/images/Lawrencium.jpg);
+  background-image: url("./PassGen/images/Lawrencium.jpg");
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
